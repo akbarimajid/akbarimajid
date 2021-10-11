@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akbarimajid
 - 👀 I’m interested in DevOps and Cloud technologies.
 - 🌱 I’m currently learning AWS and Go.
-- 💞️ I’m looking to collaborate on IaC on cloud projects.
+- 💞️ I’m looking to collaborate on cloud projects.
 - 📫 How to reach me: 
      - majid.ag1@gmail.com
      - https://www.linkedin.com/in/akbari-majid/
