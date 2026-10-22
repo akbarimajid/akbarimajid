@@ -1,41 +1,42 @@
-Hi, I’m Majid 👋
 
-Senior DevOps Engineer | Platform Engineering | MLOps | AI-assisted Software Delivery
+# Hi, I'm Majid 👋
 
-I’m a Berlin-based engineer focused on designing, operating, and improving reliable cloud-native platforms.
+**Senior DevOps Engineer | Platform Engineering | MLOps | AI-assisted Software Delivery**
 
-My background includes DevOps leadership, cloud infrastructure, Kubernetes, infrastructure as code, and developer experience. I’m particularly interested in the intersection of platform engineering, MLOps, and AI-assisted software development.
+I'm a Berlin-based engineer focused on designing, operating, and improving reliable cloud-native platforms.
 
-🔧 Areas of expertise
+My background includes DevOps leadership, cloud infrastructure, Kubernetes, infrastructure as code, and developer experience. I'm particularly interested in the intersection of platform engineering, MLOps, and AI-assisted software development.
 
-* Cloud & Infrastructure: AWS, GCP, Kubernetes, OpenShift, Terraform, Ansible
-* Platform Engineering: CI/CD, GitOps, GitHub Actions, GitLab CI, ArgoCD
-* Observability & Reliability: Prometheus, Grafana, Datadog, Loki
-* Data & ML Platforms: Airflow, BigQuery, MLflow, model serving infrastructure
-* Engineering Practices: Automation, infrastructure security, reliability, cost optimization
+## 🔧 Areas of expertise
 
-🚀 What I’m building
+- **Cloud & Infrastructure:** AWS, GCP, Kubernetes, OpenShift, Terraform, Ansible
+- **Platform Engineering:** CI/CD, GitOps, GitHub Actions, GitLab CI, ArgoCD
+- **Observability & Reliability:** Prometheus, Grafana, Datadog, Loki
+- **Data & ML Platforms:** Airflow, BigQuery, MLflow, model serving infrastructure
+- **Engineering Practices:** Automation, infrastructure security, reliability, cost optimization
 
-* Digital wellbeing: Building a mobile-first product that helps people develop healthier relationships with technology.
-* AI-assisted engineering: Exploring reliable workflows and orchestration systems that help developers and founders turn ideas into working software, with durable context, automated quality checks, and human oversight.
-* Open-source experiments: Sharing practical tools and examples for developer productivity, cloud infrastructure, and AI-assisted development.
+## 🚀 What I'm building
 
-📌 Selected public projects
+- **Digital wellbeing:** Building a mobile-first product that helps people develop healthier relationships with technology.
+- **AI-assisted engineering:** Exploring reliable workflows and orchestration systems that help developers and founders turn ideas into working software, with durable context, automated quality checks, and human oversight.
+- **Open-source experiments:** Sharing practical tools and examples for developer productivity, cloud infrastructure, and AI-assisted development.
 
-* Scaffold Template: An experimental template for preserving context across AI-assisted development sessions. Provided as an educational reference, not a production-ready framework.
-* AI Platform Incident Copilot: An agentic engineering capstone featuring mock infrastructure incidents, deterministic investigation tools, and an evaluation harness.
-* AWS Transfer Regional Terraform Module: An infrastructure-as-code example for a custom AWS Transfer Family identity provider using API Gateway, Lambda, Secrets Manager, and regional routing.
+## 📌 Selected public projects
 
-🎯 Current focus
+- **[Scaffold Template](https://github.com/akbarimajid/scaffold-template):** An experimental template for preserving context across AI-assisted development sessions. Provided as an educational reference, not a production-ready framework.
+- **[AI Platform Incident Copilot](https://github.com/akbarimajid/kaggle-ai-agents-5day/tree/main/capstone/incident-copilot):** An agentic engineering capstone featuring mock infrastructure incidents, deterministic investigation tools, and an evaluation harness.
+- **[AWS Transfer Regional Terraform Module](https://github.com/akbarimajid/terraform-aws-transfer-regional):** An infrastructure-as-code example for a custom AWS Transfer Family identity provider using API Gateway, Lambda, Secrets Manager, and regional routing.
 
-* Designing scalable internal developer platforms
-* Improving ML platform reliability and delivery
-* Building trustworthy AI-assisted engineering workflows
-* Reducing operational complexity and cloud infrastructure costs
+## 🎯 Current focus
 
-🤝 Connect
+- Designing scalable internal developer platforms
+- Improving ML platform reliability and delivery
+- Building trustworthy AI-assisted engineering workflows
+- Reducing operational complexity and cloud infrastructure costs
 
-* LinkedIn
-* GitHub repositories
+## 🤝 Connect
 
-I’m interested in exchanging ideas and collaborating on platform engineering, MLOps, and developer tooling.
+- [LinkedIn](https://www.linkedin.com/in/akbari-majid/)
+- [GitHub repositories](https://github.com/akbarimajid?tab=repositories)
+
+I'm interested in exchanging ideas and collaborating on platform engineering, MLOps, and developer tooling.
