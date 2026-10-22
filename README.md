@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @akbarimajid
-- 👀 I’m interested in DevOps and Cloud technologies.
-- 🌱 I’m currently learning AWS and Go.
-- 💞️ I’m looking to collaborate on cloud projects.
-- 📫 How to reach me: 
-     - majid.ag1@gmail.com
-     - https://www.linkedin.com/in/akbari-majid/
+Hi, I’m Majid 👋
 
-<!---
-akbarimajid/akbarimajid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Senior DevOps Engineer | Platform Engineering | MLOps | AI-assisted Software Delivery
+
+I’m a Berlin-based engineer focused on designing, operating, and improving reliable cloud-native platforms.
+
+My background includes DevOps leadership, cloud infrastructure, Kubernetes, infrastructure as code, and developer experience. I’m particularly interested in the intersection of platform engineering, MLOps, and AI-assisted software development.
+
+🔧 Areas of expertise
+
+* Cloud & Infrastructure: AWS, GCP, Kubernetes, OpenShift, Terraform, Ansible
+* Platform Engineering: CI/CD, GitOps, GitHub Actions, GitLab CI, ArgoCD
+* Observability & Reliability: Prometheus, Grafana, Datadog, Loki
+* Data & ML Platforms: Airflow, BigQuery, MLflow, model serving infrastructure
+* Engineering Practices: Automation, infrastructure security, reliability, cost optimization
+
+🚀 What I’m building
+
+Digital wellbeing: Building a mobile-first product that helps people develop healthier relationships with technology.
+
+AI-assisted engineering: Exploring reliable workflows and orchestration systems that help developers and founders turn ideas into working software, with durable context, automated quality checks, and human oversight.
+
+Open-source experiments: Sharing practical tools and examples for developer productivity, cloud infrastructure, and AI-assisted development.
+
+🎯 Current focus
+
+* Designing scalable internal developer platforms
+* Improving ML platform reliability and delivery
+* Building trustworthy AI-assisted engineering workflows
+* Reducing operational complexity and cloud infrastructure costs
+
+🤝 Connect
+
+* LinkedIn
+* GitHub Projects
+
+I’m interested in exchanging ideas and collaborating on platform engineering, MLOps, and developer tooling.
