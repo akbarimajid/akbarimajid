@@ -16,11 +16,15 @@ My background includes DevOps leadership, cloud infrastructure, Kubernetes, infr
 
 🚀 What I’m building
 
-Digital wellbeing: Building a mobile-first product that helps people develop healthier relationships with technology.
+* Digital wellbeing: Building a mobile-first product that helps people develop healthier relationships with technology.
+* AI-assisted engineering: Exploring reliable workflows and orchestration systems that help developers and founders turn ideas into working software, with durable context, automated quality checks, and human oversight.
+* Open-source experiments: Sharing practical tools and examples for developer productivity, cloud infrastructure, and AI-assisted development.
 
-AI-assisted engineering: Exploring reliable workflows and orchestration systems that help developers and founders turn ideas into working software, with durable context, automated quality checks, and human oversight.
+📌 Selected public projects
 
-Open-source experiments: Sharing practical tools and examples for developer productivity, cloud infrastructure, and AI-assisted development.
+* Scaffold Template: An experimental template for preserving context across AI-assisted development sessions. Provided as an educational reference, not a production-ready framework.
+* AI Platform Incident Copilot: An agentic engineering capstone featuring mock infrastructure incidents, deterministic investigation tools, and an evaluation harness.
+* AWS Transfer Regional Terraform Module: An infrastructure-as-code example for a custom AWS Transfer Family identity provider using API Gateway, Lambda, Secrets Manager, and regional routing.
 
 🎯 Current focus
 
@@ -32,6 +36,6 @@ Open-source experiments: Sharing practical tools and examples for developer prod
 🤝 Connect
 
 * LinkedIn
-* GitHub Projects
+* GitHub repositories
 
 I’m interested in exchanging ideas and collaborating on platform engineering, MLOps, and developer tooling.
